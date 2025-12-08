@@ -64,7 +64,7 @@
 |  C  | JS 軟體工程師  | [GitHub]() |
 |  D  | C# 後端工程師  | [GitHub]() |
 |  Joanne (主安)  | C# 後端工程師  | [GitHub](https://github.com/jlsjoanne) |
-|  F  | UI 設計師     | [GitHub]() |
+|  旻珊  | UI 設計師     | [GitHub](https://github.com/xms7104) |
 |  Lyan  | UI 設計師     | [GitHub](https://github.com/onedhh28) |
 
 　
