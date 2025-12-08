@@ -61,7 +61,7 @@
 |-----|--------------|------------|
 |  麟宸  | JS 軟體工程師  | [GitHub](https://github.com/Clyde-Huang) |
 |  Chieh  | JS 軟體工程師  | [GitHub](https://github.com/chieh0225) |
-|  C  | JS 軟體工程師  | [GitHub]() |
+|  郁翔  | JS 軟體工程師  | [GitHub](https://github.com/sunset3777) |
 |  D  | C# 後端工程師  | [GitHub]() |
 |  Joanne (主安)  | C# 後端工程師  | [GitHub](https://github.com/jlsjoanne) |
 |  旻珊  | UI 設計師     | [GitHub](https://github.com/xms7104) |
