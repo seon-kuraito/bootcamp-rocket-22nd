@@ -60,7 +60,7 @@
 | 成員 | 組別 | GitHub |
 |-----|--------------|------------|
 |  麟宸  | JS 軟體工程師  | [GitHub](https://github.com/Clyde-Huang) |
-|  B  | JS 軟體工程師  | [GitHub]() |
+|  Chieh  | JS 軟體工程師  | [GitHub](https://github.com/chieh0225) |
 |  C  | JS 軟體工程師  | [GitHub]() |
 |  D  | C# 後端工程師  | [GitHub]() |
 |  Joanne (主安)  | C# 後端工程師  | [GitHub](https://github.com/jlsjoanne) |
