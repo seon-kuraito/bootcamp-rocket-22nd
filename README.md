@@ -65,8 +65,7 @@
 |  D  | C# 後端工程師  | [GitHub]() |
 |  E  | C# 後端工程師  | [GitHub]() |
 |  F  | UI 設計師     | [GitHub]() |
-|  G  | UI 設計師     | [GitHub]() |
-|  H  | UI 設計師     | [GitHub]() |
+|  G  | UI 設計師     | [GitHub](https://github.com/onedhh28) |
 
 　
 
