@@ -72,11 +72,11 @@
 ## 📜 規範文件
 > 「一致的規範，換來更快的協作與更少的誤解。」
 
-- [code_of_conduct.md（生活公約）](/code-of-conduct.md)
-- [attendance_and_leave.md（出缺勤與請假規範）](/attendance-and-leave.md)
-- [withdrawal_and_termination.md（退訓機制）](/withdrawal-and-termination.md)
-- [reward_and_recognition.md（獎勵機制）](/reward-and-recognition.md)
-- [non_discrimination.md（就業歧視與性別平等宣導）](/non-discrimination.md)
+- [Code Of Conduct.md（生活公約）](/code-of-conduct.md)
+- [Attendance And Leave.md（出缺勤與請假規範）](/attendance-and-leave.md)
+- [Withdrawal And Termination.md（退訓機制）](/withdrawal-and-termination.md)
+- [Reward And Recognition.md（獎勵機制）](/reward-and-recognition.md)
+- [Non Discrimination.md（就業歧視與性別平等宣導）](/non-discrimination.md)
 
 上述文件僅提供火箭隊培訓營之成員使用，如需引用請先聯繫教練（seon.kuraito.env@gmail.com）。
 
